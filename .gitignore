@@ -1,0 +1,5 @@
+.venv/
+blocks/
+db_ops/
+cache/
+__pycache__
